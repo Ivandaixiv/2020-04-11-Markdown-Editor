@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ivandaixiv/2020-04-11-Markdown-Editor/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Ivandaixiv/2020-04-11-Markdown-Editor/static/js/main.d37bb972.chunk.js",
+    "main.js.map": "/Ivandaixiv/2020-04-11-Markdown-Editor/static/js/main.d37bb972.chunk.js.map",
+    "runtime-main.js": "/Ivandaixiv/2020-04-11-Markdown-Editor/static/js/runtime-main.7c244322.js",
+    "runtime-main.js.map": "/Ivandaixiv/2020-04-11-Markdown-Editor/static/js/runtime-main.7c244322.js.map",
+    "static/js/2.6df27067.chunk.js": "/Ivandaixiv/2020-04-11-Markdown-Editor/static/js/2.6df27067.chunk.js",
+    "static/js/2.6df27067.chunk.js.map": "/Ivandaixiv/2020-04-11-Markdown-Editor/static/js/2.6df27067.chunk.js.map",
+    "index.html": "/Ivandaixiv/2020-04-11-Markdown-Editor/index.html",
+    "precache-manifest.20614a581e2223e15fa94e67f43faf02.js": "/Ivandaixiv/2020-04-11-Markdown-Editor/precache-manifest.20614a581e2223e15fa94e67f43faf02.js",
+    "service-worker.js": "/Ivandaixiv/2020-04-11-Markdown-Editor/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Ivandaixiv/2020-04-11-Markdown-Editor/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6df27067.chunk.js.LICENSE.txt": "/Ivandaixiv/2020-04-11-Markdown-Editor/static/js/2.6df27067.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Ivandaixiv/2020-04-11-Markdown-Editor/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c244322.js",
+    "static/js/2.6df27067.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d37bb972.chunk.js"
+  ]
+}

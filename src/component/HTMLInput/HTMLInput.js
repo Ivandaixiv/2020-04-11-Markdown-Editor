@@ -27,7 +27,6 @@ const HTMLInput = (props) => {
         placeholder="Enter your markdown..."
         className={classes.inputField}
         onChange={(value) => {
-          console.log(value);
           setInput(value.target.value);
         }}
       />

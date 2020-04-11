@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Ivandaixiv/2020-04-11-Markdown-Editor/precache-manifest.20614a581e2223e15fa94e67f43faf02.js"
+  "/Ivandaixiv/2020-04-11-Markdown-Editor/precache-manifest.3bb535a048b5aede9afe4b58026a7754.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,16 +1,23 @@
-import React from "react";
-import logo from "./logo.svg";
+import React, { useState } from "react";
 import "./App.css";
+import HTMLInput from "./component/HTMLInput";
+const ReactMarkdown = require("react-markdown");
 
-function App() {
+const App = () => {
+  const [input, setInput] = useState(" ");
+  const disallowed = ["link"];
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello World</p>
+        <HTMLInput setInput={setInput} />
+        <ReactMarkdown
+          source={input}
+          disallowedTypes={disallowed}
+          className="markdown"
+        />
       </header>
     </div>
   );
-}
+};
 
 export default App;
